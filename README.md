@@ -1,9 +1,8 @@
 # Sandtable-patterns
 collection of sandtable (sysiphus style) patterns in gcode format.
-These are all intneded for a 500x500mm sand drawing area. I run these on octoprint using the playlist plugin (https://github.com/jneilliii/OctoPrint-Playlist)
+These are all currently adjusted for a 500x500mm sand drawing area. Upload to sandify.org to make them suit your sandtable dimensions. Should also work with sysiphus tables if you export as .THR
+I run these on octoprint using the playlist plugin (https://github.com/jneilliii/OctoPrint-Playlist)
 I also suggest using the Mutiple Upload plugin (https://plugins.octoprint.org/plugins/MultipleUpload/) to allow you to upload patterns to octoprint in a batch. 
-
-Upload to sandify.org to make them suit your sandtable dimensions. Should also work with sysiphus tables if you export as .THR
 
 These are patterns that I have created or collected from various places over time. Most of them are not my original patterns but they are all publicly available.  
 
