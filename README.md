@@ -21,7 +21,7 @@ Feel free to reach out if have any concerns with your patterns being hosted here
 Feel free to send more patterns to help the community
 
 The patterns are currently numbered in an order that I think works well on a playlist. This numbering system helps when adding them to the playlist.
-The naming convetion is as follows:
+The naming convention is as follows:
 (E) indicates if the pattern is an 'Eraser' pattern - which means it either has an eraser built in or the pattern itself is dense enough to completely write over any previous pattern. If it does not have (E) in the name it likely needs a seperate erraser pattern before it. 
 (C C) or other combination of N, S, W, E, C coordinates indicate (Start position, End position) in compase coordinates where C indicates 'Centre'. 
 (BJ) indicates one of my original patterns. 
